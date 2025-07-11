@@ -1,4 +1,4 @@
-[![Bluesky Follow](https://img.shields.io/badge/Follow-%40devstart.bsky.social-1DA1F2?style=flat-square&logo=bluesky&logoColor=white&labelColor=3A89FF&colorB=144FD6)](https://bsky.app/profile/devstart.bsky.social)
+[![Bluesky Follow](https://img.shields.io/badge/Follow-%40devstart.bsky.social-1DA1F2?style=flat-square&logo=bluesky&logoColor=white&labelColor=3A89FF&colorB=144FD6)](https://bsky.app/profile/devstart.org)
 
 # Welcome to DevStart-Hub 👋 <img src='https://github.com/TommasoGhilardi/DevStart/blob/main/images/LOGO.png' width='100' align="right" /></a>
 
